@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SIVF</string>
+
+    <array name="categorias">
+        <item>categoria 1</item>
+        <item>Categoria 2</item>
+    </array>
+</resources>
